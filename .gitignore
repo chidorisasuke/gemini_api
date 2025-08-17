@@ -3,3 +3,6 @@
 
 # Folder dependencies (bisa diinstall ulang dengan `npm install`)
 node_modules
+starter_code
+starter
+_MACOSX
