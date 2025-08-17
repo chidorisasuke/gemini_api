@@ -1,0 +1,5 @@
+# File environment (berisi API Key RAHASIA)
+.env
+
+# Folder dependencies (bisa diinstall ulang dengan `npm install`)
+node_modules

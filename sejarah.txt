@@ -1,0 +1,9 @@
+Sejarah Singkat Internet
+
+Internet berawal dari sebuah proyek riset oleh Departemen Pertahanan Amerika Serikat pada tahun 1960-an yang disebut ARPANET. Tujuannya adalah untuk menciptakan jaringan komunikasi yang terdesentralisasi dan tahan terhadap serangan, memungkinkan data tetap bisa terkirim meskipun sebagian jaringan mengalami kerusakan. Jaringan ini awalnya hanya menghubungkan beberapa universitas dan institusi riset.
+
+Pada dekade berikutnya, protokol fundamental seperti TCP/IP (Transmission Control Protocol/Internet Protocol) dikembangkan. Protokol ini menjadi standar komunikasi yang memungkinkan berbagai jaringan komputer berbeda untuk saling terhubung. Momen ini menjadi cikal bakal dari 'jaringan antar jaringan' atau 'internet' yang kita kenal.
+
+Titik balik terbesar terjadi pada awal tahun 1990-an ketika Tim Berners-Lee di CERN menciptakan World Wide Web (WWW). Dengan adanya browser web, HTML, dan HTTP, informasi di internet menjadi mudah diakses oleh publik non-teknis. Hal ini memicu ledakan pertumbuhan pengguna dan konten secara eksponensial.
+
+Sejak saat itu, internet telah berevolusi menjadi platform komersial, sosial, dan hiburan global. Munculnya perusahaan dot-com, media sosial, dan akses mobile telah mengubah cara manusia bekerja, berkomunikasi, dan menjalani kehidupan sehari-hari.
